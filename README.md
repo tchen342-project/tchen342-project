@@ -12,15 +12,15 @@ You can click the Preview link to take a look at your changes.
 --->
 # My GitHub Projects
 
-## Web Development
+## Full stack Project
 - [Project 1](https://github.com/username/project1): A brief description of Project 1.
 - [Project 2](https://github.com/username/project2): A brief description of Project 2.
+- 
+## Front end Project
 
-## Machine Learning
+## ML from scratch
 - [Project 3](https://github.com/username/project3): A brief description of Project 3.
 - [Project 4](https://github.com/username/project4): A brief description of Project 4.
 
-## DevOps
-- [Project 5](https://github.com/username/project5): A brief description of Project 5.
-- [Project 6](https://github.com/username/project6): A brief description of Project 6.
+## ML research paper replicate
 
