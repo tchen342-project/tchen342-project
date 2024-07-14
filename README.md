@@ -33,8 +33,8 @@ Utilized Gaussian classifier techniques for digits and spam datasets. Fit Gaussi
   MLP for FashionMNIST
   Trained a Multi-Layer Perceptron (MLP) on the FashionMNIST dataset using PyTorch. Achieved over 82% validation accuracy after 8 epochs, visualized training and validation performance, and optimized using Stochastic Gradient Descent (SGD).
   
-  CIFAR-10 CNN with AlexNet Architecture
-  Implemented a Convolutional Neural Network (CNN) using AlexNet architecture to classify CIFAR-10 images. Applied normalization, augmentation, and SGD for optimization, ensuring competitive accuracy with validation and performance monitoring.
+    CIFAR-10 CNN with AlexNet Architecture
+    Implemented a Convolutional Neural Network (CNN) using AlexNet architecture to classify CIFAR-10 images. Applied normalization, augmentation, and SGD for optimization, ensuring competitive accuracy with validation and performance monitoring.
 
 - 5. [Decision Trees and Random Forests](https://github.com/tchen342-project/ml_decision_tree.git)
 Developed decision trees and random forests from scratch for classification tasks including spam detection and Titanic survivor prediction. Managed categorical features, handled missing values, and evaluated model performance with accuracy metrics.
