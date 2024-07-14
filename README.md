@@ -19,9 +19,7 @@ You can click the Preview link to take a look at your changes.
 ## Front end Project
 
 ## ML from scratch
-- [Project 3](https://github.com/username/project3): A brief description of Project 3.
-- [Project 4](https://github.com/username/project4): A brief description of Project 4.
-  
+
 - 1. [SVM and K-Fold Cross-Validation](https://github.com/tchen342-project/ml-svm.git)
 Implemented Support Vector Machines (SVM) for mnist-data and spam-ham datasets, evaluated using K-Fold Cross-Validation for training set accuracy.
 
